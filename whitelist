@@ -403,3 +403,6 @@ lacus.zorgttp.nl
 lacus.test.zorgttp.nl
 deb.debian.org
 *.deb.debian.org
+bun.sh
+api.nuget.org
+globalcdn.nuget.org
